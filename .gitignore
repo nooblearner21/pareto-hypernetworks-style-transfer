@@ -1,0 +1,6 @@
+env
+content
+__pycache__/
+.DS_Store
+./pareto/.DS_Store
+pareto_env/
