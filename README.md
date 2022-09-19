@@ -1,5 +1,11 @@
 # Approximating The Pareto Front Of Style Transfer Using Hypernetworks
 
+## Examples
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/nooblearner21/pareto-hypernetworks-style-transfer/main/examples/examples.png">
+</p>
+
 ## Install
 
 ```bash
@@ -42,6 +48,7 @@ python pareto/main.py --train --image examples/Kadinsky/kadinsky.jpg --train-dat
 We added a dataset folder with 4 samples that you can use to train the network and see the parameter tunning and losses,
 In order to fully train the network we used the MS-COCO 2014 val dataset.
 
-##Example Output & Results
-![alt text](https://raw.githubusercontent.com/nooblearner21/pareto-hypernetworks-style-transfer/main/examples/examples.png)
-![alt text](https://raw.githubusercontent.com/nooblearner21/pareto-hypernetworks-style-transfer/main/examples/results.png)
+## Results
+<p align="center">
+<img src="https://raw.githubusercontent.com/nooblearner21/pareto-hypernetworks-style-transfer/main/examples/results.png">
+</p>
