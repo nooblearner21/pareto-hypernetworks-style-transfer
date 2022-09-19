@@ -43,3 +43,4 @@ We added a dataset folder with 4 samples that you can use to train the network a
 In order to fully train the network we used the MS-COCO 2014 val dataset.
 
 # pareto-hypernetworks-style-transfer
+# pareto-hypernetworks-style-transfer
